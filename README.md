@@ -10,3 +10,5 @@ section of SPARQL Query.
 
 It will add coverage of SPARQL Update, SPARQL Protocol and SPARQL Graph
 Store Protocol.
+
+Current draft: https://w3c.github.io/sparql-threat-model/threat-model/sparql-threat-model.html
